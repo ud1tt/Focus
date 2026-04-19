@@ -17,34 +17,6 @@ const initialTasks = [
     startDate: new Date().toISOString().split('T')[0],
     endDate: '',
     status: 'In Development'
-  },
-  {
-    id: '3',
-    name: 'Implement backend API integration',
-    startDate: '',
-    endDate: '',
-    status: 'Not Started'
-  },
-  {
-    id: '4',
-    name: 'Write unit tests for the components',
-    startDate: '',
-    endDate: '',
-    status: 'Not Started'
-  },
-  {
-    id: '5',
-    name: 'Design the marketing landing page',
-    startDate: '',
-    endDate: '',
-    status: 'Under Review'
-  },
-  {
-    id: '6',
-    name: 'Fix the navigation bug on mobile',
-    startDate: '',
-    endDate: '',
-    status: 'Testing'
   }
 ];
 
